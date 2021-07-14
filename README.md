@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAA1999mzp
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning linux Programming
+- 🌱 I’m currently learning Linux Programming
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me aaansari1999mzp@gmail.com
 

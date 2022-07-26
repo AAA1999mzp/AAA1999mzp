@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AAA1999mzp
-- 👀 I’m interested in Ethical Hacking and Game Development 
+- 👋 Hi, I’m @AAA1999MZP
+- 👀 I’m interested in Ethical Hacking and Game Development
 - 🌱 I’m currently learning Linux Programming and Unity Game Engine
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me aaansari1999mzp@gmail.com

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAA1999mzp
+- 👋 Hi, I’m Aafaq Ahmad.
 - 👀 I’m interested in Ethical Hacking and Game Development.
 - 🌱 I’m currently learning Linux Programming and Unity Game Engine.
 - 💞️ I’m looking to collaborate on Projects. I know Programming Languages like C/C++, C#, JAVA, Python, SQL.

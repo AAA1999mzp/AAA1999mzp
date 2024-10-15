@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aafaq Ahmad.
 - 👀 I’m interested in Ethical Hacking and Game Development.
-- 🌱 I’m currently learning Linux Programming and Unity Game Engine.
+- 🌱 I’m currently learning .NET Development, Linux Programming, and Unity Game Engine.
 - 💞️ I’m looking to collaborate on Projects. I know Programming Languages like C/C++, C#, JAVA, Python, SQL.
 - 📫 How to reach me aaansari18mzp@gmail.com
 

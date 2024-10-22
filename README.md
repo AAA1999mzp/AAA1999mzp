@@ -1,7 +1,16 @@
 - 👋 Hi, I’m Aafaq Ahmad.
-- 👀 I’m interested in Ethical Hacking, Software and Game Development.
+- 👀 I’m interested in Ethical Hacking, Software Programmer, and Game Development.
 - 🌱 I’m learning .NET Development, Linux Programming, and Unity Game Engine.
-- 💞️ I’m looking to collaborate on Projects. I know Programming Languages like C/C++, C#, JAVA, Python, SQL.
+- 💞️ I’m looking to collaborate on Projects. I know Programming Languages like C/C++, C#, JAVA, Python, and SQL.
+- I'm a Computer Science Enthusiast and Tech Geek.
+I'm Passionate about Coding and Software Development.
+I have worked on an AI Project in my Graduation.
+
+I know many programming languages such as C/C++, JAVA, Python, C#(.NET), Fortran, SQL, etc.
+I have worked on MS OFFICE, ADOBE PHOTOSHOP(GIMP), BLENDER, and UNITY.
+I have 6+ months of game development Experience in UNITY Game Engine.
+I know Linux distro's like UBUNTU, KALI, and DEBIAN and worked on the Terminal/Bash/Shell.
+I have worked on Grads for NWP(Numerical Weather Prediction) at NCMRWF, Noida, UP.
 - 📫 How to reach me aaansari18mzp@gmail.com
 
 <!---

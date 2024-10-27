@@ -1,5 +1,5 @@
 Hello, I'm AAFAQUE AHMAD 👋
-Computer Science Enthusiast | Software Developer | Tech Geek
+Computer Science Enthusiast | Tech Geek
 
 💻 About Me
 I'm a passionate software developer with a solid foundation in computer science and a particular interest in AI, game development, and scientific computing. My expertise spans several programming languages, tools, and frameworks, allowing me to take on diverse projects and continuously expand my skill set.

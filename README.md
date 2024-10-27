@@ -1,21 +1,27 @@
-- 👋 Hi, I’m Aafaq Ahmad.
-- 👀 I’m interested in Ethical Hacking, Software programming, and Game Development.
-- 🌱 I’m learning .NET Development, JAVA/Python Programming, and Unity Game Engine.
-- 💞️ I’m looking to collaborate on Projects. I know Programming Languages like C/C++, C#, JAVA, Python, and SQL.
-- 📫 How to reach me aaansari18mzp@gmail.com
+Hello, I'm AAFAQUE AHMAD 👋
+Computer Science Enthusiast | Software Developer | Tech Geek
 
-I'm a Computer Science Enthusiast and Tech Geek. 
-I'm Passionate about Coding and Software Development. 
-I have worked on an AI Project in my Graduation. 
-I know many programming languages such as C/C++, JAVA, Python, C#(.NET), Fortran, SQL, etc. 
-I have worked on MS OFFICE, ADOBE PHOTOSHOP(GIMP), BLENDER, and UNITY. 
-I have 6+ months of game development Experience in UNITY Game Engine. 
-I know Linux distro's like UBUNTU, KALI, and DEBIAN and worked on the Terminal/Bash/Shell. 
-I have worked on Grads for NWP(Numerical Weather Prediction) at NCMRWF, Noida, UP. 
+💻 About Me
+I'm a passionate software developer with a solid foundation in computer science and a particular interest in AI, game development, and scientific computing. My expertise spans several programming languages, tools, and frameworks, allowing me to take on diverse projects and continuously expand my skill set.
 
-My Projects: https://github.com/AAA1999mzp?tab=repositories
+🔧 Technical Skills
+Programming Languages:
 
-<!---
-AAA1999mzp/AAA1999mzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Development Tools:
+
+Productivity Tools:
+
+Operating Systems:
+(Ubuntu, Kali, Debian)
+
+🌟 Projects
+I’ve worked on various projects, from game development to scientific computing. Some highlights:
+
+AI Graduation Project – An innovative AI-based project exploring machine learning techniques.
+Unity Game Development – Developed several games with 3D models and interactive environments.
+Scientific Computing (NWP) – Hands-on experience with GRADS at the NCMRWF for Numerical Weather Prediction, processing complex environmental data.
+You can explore all my projects in detail on my GitHub repositories.
+
+📫 Connect With Me
+LinkedIn
+Email

@@ -5,6 +5,7 @@ Computer Science Enthusiast | Tech Geek
 I'm a passionate software developer with a solid foundation in computer science and a particular interest in AI, game development, and scientific computing. My expertise spans several programming languages, tools, and frameworks, allowing me to take on diverse projects and continuously expand my skill set.
 
 🔧 Technical Skills
+
 Programming Languages: C/C++, JAVA, Python, SQL
 
 Development Tools: C#(.NET), Unity 

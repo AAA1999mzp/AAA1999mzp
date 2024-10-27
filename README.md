@@ -5,11 +5,11 @@ Computer Science Enthusiast | Software Developer | Tech Geek
 I'm a passionate software developer with a solid foundation in computer science and a particular interest in AI, game development, and scientific computing. My expertise spans several programming languages, tools, and frameworks, allowing me to take on diverse projects and continuously expand my skill set.
 
 🔧 Technical Skills
-Programming Languages:
+Programming Languages: C/C++, JAVA, Python, SQL
 
-Development Tools:
+Development Tools: C#(.NET), Unity 
 
-Productivity Tools:
+Productivity Tools: MS OFFICE
 
 Operating Systems:
 (Ubuntu, Kali, Debian)
@@ -18,10 +18,14 @@ Operating Systems:
 I’ve worked on various projects, from game development to scientific computing. Some highlights:
 
 AI Graduation Project – An innovative AI-based project exploring machine learning techniques.
+
 Unity Game Development – Developed several games with 3D models and interactive environments.
-Scientific Computing (NWP) – Hands-on experience with GRADS at the NCMRWF for Numerical Weather Prediction, processing complex environmental data.
+
+Scientific Computing (NWP) – Hands-on experience with GRADS at the NCMRWF for Numerical Weather Prediction, and processing complex environmental data.
+
 You can explore all my projects in detail on my GitHub repositories.
 
 📫 Connect With Me
+
 LinkedIn
 Email

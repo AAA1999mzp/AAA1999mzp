@@ -27,5 +27,5 @@ You can explore all my projects in detail on my GitHub repositories.
 
 📫 Connect With Me
 
-LinkedIn
-Email
+LinkedIn: https://www.linkedin.com/in/aafaque-ahmad-43b1a5175/
+Email: aaansari18mzp@gmail.com

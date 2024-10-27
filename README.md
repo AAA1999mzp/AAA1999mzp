@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aafaque-ahmad-43b1a5175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aafaque-ahmad-43b1a5175/" height="30" width="40" /></a>
 <a href="https://instagram.com/aaansari1999mzp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaansari1999mzp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aaansari1999mzp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aaansari1999mzp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aaa1999mzp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aaa1999mzp/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/aaa1999mzp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aaa1999mzp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaa1999mzp&show_icons=true&locale=en&layout=compact" alt="aaa1999mzp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaa1999mzp&show_icons=true&locale=en" alt="aaa1999mzp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaa1999mzp&" alt="aaa1999mzp" /></p>

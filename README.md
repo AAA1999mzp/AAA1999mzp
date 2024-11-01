@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [3D Third Person Zombie Shooter Game](https://aaa1999mzp.itch.io/fps-zombies)
 
-- 🌱 I’m currently learning **Unity 3D Game Development, JAVA Programming, Python Flask Library, C#(.NET) Framework, Linux Terminal and Flutter**
+- 🌱 I’m currently learning **Unity 3D Game Development, JAVA Programming, Python Libraries, C#(.NET) Framework, Linux Terminal and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AAA1999mzp?tab=repositories](https://github.com/AAA1999mzp?tab=repositories)
 
